@@ -1,3 +1,7 @@
+### How to build
+
+mvn clean package
+
 ### How to run 
 
 http://localhost:9898/v3/api-docs
